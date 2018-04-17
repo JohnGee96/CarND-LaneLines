@@ -81,13 +81,13 @@ On the other hand the shadow casting from the trees on the side and the uneven s
 
 To remove the false positive edges, I filter out the edges with flat slope < 0.5. 
 
-Before edge filtering:
+**Before edge filtering:**
 ![unfiltered lines][unfilteredLines]
 
-After edge filtering:
+**After edge filtering:**
 ![filtered lines][filteredLines]
 
-Result:
+**Result:**
 ![light cement success][Challenge1Succ]
 ![shadow success][Challenge2Succ]
 
